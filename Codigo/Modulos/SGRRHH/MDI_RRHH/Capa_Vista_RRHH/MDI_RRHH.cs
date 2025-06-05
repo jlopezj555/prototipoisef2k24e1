@@ -208,7 +208,7 @@ namespace Capa_Vista_RRHH
             //frm_vacacionesempleados deptos = new frm_vacacionesempleados();
             //deptos.Show();
 
-            frm_vacacionesempleados GD = new frm_vacacionesempleados();
+            MantenimientoExamen GD = new MantenimientoExamen();
             GD.MdiParent = this;
             CentrarFormulario(GD);
             GD.Show();

@@ -278,3 +278,4 @@ C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Cap
 C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Vista_RRHH\obj\Debug\Capa_Vis.B0FF42F0.Up2Date
 C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Vista_RRHH\obj\Debug\Capa_Vista_RRHH.exe
 C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Vista_RRHH\obj\Debug\Capa_Vista_RRHH.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Vista_RRHH\obj\Debug\Capa_Vista_RRHH.MantenimientoExamen.resources

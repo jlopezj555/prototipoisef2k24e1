@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|solutionrelative:capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\mdi_rrhh\\capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|solutionrelative:capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\mdi_rrhh\\capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|solutionrelative:capa_vista_rrhh\\mdi_rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\mdi_rrhh\\capa_vista_rrhh\\mantenimientoexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|solutionrelative:capa_vista_rrhh\\mantenimientoexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\mdi_rrhh\\capa_vista_rrhh\\mantenimientoexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A5BC24-3DEA-4D26-A1BE-76583639B7F9}|Capa_Vista_RRHH\\Capa_Vista_RRHH.csproj|solutionrelative:capa_vista_rrhh\\mantenimientoexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "MantenimientoExamen.cs",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "RelativeToolTip": "Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:08:07.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MantenimientoExamen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_RRHH\\MantenimientoExamen.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MantenimientoExamen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_RRHH\\MantenimientoExamen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:05:47.117Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MDI_RRHH.cs",
               "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MDI_RRHH.cs",
               "RelativeDocumentMoniker": "Capa_Vista_RRHH\\MDI_RRHH.cs",
               "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MDI_RRHH.cs",
               "RelativeToolTip": "Capa_Vista_RRHH\\MDI_RRHH.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAAAEkCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwNIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T14:53:49.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MDI_RRHH.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\MDI_RRHH\\Capa_Vista_RRHH\\MDI_RRHH.cs",
               "RelativeDocumentMoniker": "Capa_Vista_RRHH\\MDI_RRHH.cs",
