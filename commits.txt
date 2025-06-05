@@ -1,0 +1,50 @@
+commit cdb71005c3aaa82338fd12db0fc1c7a1957b10b6
+Merge: 3aa67e1 62c73ff
+Author: Joel López <123108245+jlopezj555@users.noreply.github.com>
+Date:   Thu Jun 5 09:31:32 2025 -0600
+
+    Merge pull request #3 from jlopezj555/RamaSeguridad0901214188
+    
+    script agregado
+
+commit 62c73ffbca6bebd79ace235784dd10acbecdb087
+Author: jlopezj555 <jlopezj24@miumg.edu.gt>
+Date:   Thu Jun 5 09:29:41 2025 -0600
+
+    script agregado
+
+commit 3aa67e169c24a447e10972eb79d7aea182b4380d
+Merge: f623646 07d25b6
+Author: Joel López <123108245+jlopezj555@users.noreply.github.com>
+Date:   Thu Jun 5 09:24:44 2025 -0600
+
+    Merge pull request #2 from jlopezj555/RamaMantenimientos0901214188
+    
+    Mantenimiento alumnos creado
+
+commit 07d25b6b091173d98e26124fb0e68d499e55a39c
+Author: jlopezj555 <jlopezj24@miumg.edu.gt>
+Date:   Thu Jun 5 09:24:05 2025 -0600
+
+    Mantenimiento alumnos creado
+
+commit f623646ac033010e5768e2158899311d88f64d1d
+Merge: 4e60fb4 7893e45
+Author: Joel López <123108245+jlopezj555@users.noreply.github.com>
+Date:   Thu Jun 5 09:01:47 2025 -0600
+
+    Merge pull request #1 from jlopezj555/RamaContenedor0901214188
+    
+    Creacion MDI
+
+commit 7893e455f28f10fac145178cfe45204e073eb839
+Author: jlopezj555 <jlopezj24@miumg.edu.gt>
+Date:   Thu Jun 5 09:00:57 2025 -0600
+
+    Creacion MDI
+
+commit 4e60fb43ec86dbf20938e3d67fca69abf709e9e0
+Author: jlopezj555 <jlopezj24@miumg.edu.gt>
+Date:   Thu Jun 5 08:40:02 2025 -0600
+
+    Implementando codigo inicial
