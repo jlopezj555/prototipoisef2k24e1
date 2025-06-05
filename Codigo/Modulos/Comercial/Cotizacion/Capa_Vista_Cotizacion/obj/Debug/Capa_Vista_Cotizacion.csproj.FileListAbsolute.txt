@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.CotizacionReporte.resources
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.frm_cotizaciones.resources
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.Properties.Resources.resources
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.GenerateResource.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Vista_Cotizacion\obj\Debug\Capa_Vista_Cotizacion.csproj.CoreCompileInputs.cache

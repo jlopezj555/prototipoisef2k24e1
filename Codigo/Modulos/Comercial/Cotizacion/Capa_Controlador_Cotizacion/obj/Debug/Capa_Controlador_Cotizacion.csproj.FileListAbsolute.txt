@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\bin\Debug\Capa_Controlador_Cotizacion.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Cotizacion\Capa_Controlador_Cotizacion\obj\Debug\Capa_Controlador_Cotizacion.pdb

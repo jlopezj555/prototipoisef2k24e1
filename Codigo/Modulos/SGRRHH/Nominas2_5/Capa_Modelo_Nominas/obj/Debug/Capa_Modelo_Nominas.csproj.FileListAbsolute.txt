@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\bin\Debug\Capa_Modelo_Nominas.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Capa_Modelo_Nominas\obj\Debug\Capa_Modelo_Nominas.pdb

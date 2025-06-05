@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B922EFA-2F31-46D4-BB39-A9AA36EF94BB}|Capa_Controlador_Planilla\\Capa_Controlador_Planilla.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\nominas2_5\\planilla_nominas\\capa_controlador_planilla\\comisionescontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B922EFA-2F31-46D4-BB39-A9AA36EF94BB}|Capa_Controlador_Planilla\\Capa_Controlador_Planilla.csproj|solutionrelative:capa_controlador_planilla\\comisionescontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|solutionrelative:capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE0529F6-B524-47D4-A761-768070CD2C56}|Capa_Vista_Planilla\\Capa_Vista_Planilla.csproj|solutionrelative:capa_vista_planilla\\frm_calculoperpdedu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComisionesControlador.cs",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Controlador_Planilla\\ComisionesControlador.cs",
+              "RelativeDocumentMoniker": "Capa_Controlador_Planilla\\ComisionesControlador.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Controlador_Planilla\\ComisionesControlador.cs",
+              "RelativeToolTip": "Capa_Controlador_Planilla\\ComisionesControlador.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:47:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_CalculoPerpDedu.cs",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "RelativeToolTip": "Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "ViewState": "AgIAABsCAAAAAAAAAAAQwBMCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:30:40.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\proyectois2k25\\Codigo\\Modulos\\SGRRHH\\Nominas2_5\\Planilla_Nominas\\Capa_Vista_Planilla\\Frm_CalculoPerpDedu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:30:38.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

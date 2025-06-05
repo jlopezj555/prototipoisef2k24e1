@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Componentes\Reporteador2_5\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.pdb

@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\bin\Debug\Capa_Modelo_AsistenciaYFaltas.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Asistencia y Faltas\Capa_Modelo_AsistenciaYFaltas\obj\Debug\Capa_Modelo_AsistenciaYFaltas.pdb

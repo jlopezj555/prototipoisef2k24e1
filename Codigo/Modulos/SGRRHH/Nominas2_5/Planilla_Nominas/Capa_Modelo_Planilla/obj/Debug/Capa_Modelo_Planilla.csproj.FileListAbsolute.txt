@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\bin\Debug\Capa_Modelo_Planilla.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\bin\Debug\Capa_Modelo_Planilla.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\obj\Debug\Capa_Modelo_Planilla.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\obj\Debug\Capa_Modelo_Planilla.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\obj\Debug\Capa_Modelo_Planilla.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Modelo_Planilla\obj\Debug\Capa_Modelo_Planilla.pdb

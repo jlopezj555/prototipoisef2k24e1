@@ -1,0 +1,11 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Capa_Controlador_Planilla.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Capa_Controlador_Planilla.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Capa_Modelo_Planilla.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Newtonsoft.Json.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Capa_Modelo_Planilla.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\bin\Debug\Newtonsoft.Json.xml
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\obj\Debug\Capa_Controlador_Planilla.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\obj\Debug\Capa_Controlador_Planilla.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\obj\Debug\Capa_Controlador_Planilla.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\obj\Debug\Capa_Controlador_Planilla.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Planilla_Nominas\Capa_Controlador_Planilla\obj\Debug\Capa_Con.BB00FFA0.Up2Date

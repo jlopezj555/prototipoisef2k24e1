@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Modelo_Evaluacion\obj\Debug\Capa_Modelo_Evaluacion.pdb

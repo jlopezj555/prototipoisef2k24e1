@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\bin\Debug\Capa_Modelo_Carrera.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\bin\Debug\Capa_Modelo_Carrera.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\bin\Debug\Capa_Modelo_Carrera.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\bin\Debug\Capa_Modelo_Carrera.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\DesarrolloCarrera\DesCarrera\Capa_Modelo_Carrera\obj\Debug\Capa_Modelo_Carrera.pdb

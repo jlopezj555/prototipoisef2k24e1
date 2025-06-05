@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Modelo_Capacitacion\obj\Debug\Capa_Modelo_Capacitacion.pdb

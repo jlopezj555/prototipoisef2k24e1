@@ -1,0 +1,9 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\bin\Debug\Capa_Controlador_RRHH.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\bin\Debug\Capa_Controlador_RRHH.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\obj\Debug\Capa_Controlador_RRHH.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\obj\Debug\Capa_Controlador_RRHH.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\obj\Debug\Capa_Controlador_RRHH.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\obj\Debug\Capa_Controlador_RRHH.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\bin\Debug\Capa_Modelo_RRHH.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\bin\Debug\Capa_Modelo_RRHH.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\MDI_RRHH\Capa_Controlador_RRHH\obj\Debug\Capa_Con.85CBC8C8.Up2Date

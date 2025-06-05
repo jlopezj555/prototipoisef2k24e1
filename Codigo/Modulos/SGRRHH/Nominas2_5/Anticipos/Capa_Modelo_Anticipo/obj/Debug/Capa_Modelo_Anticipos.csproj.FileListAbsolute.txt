@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\bin\Debug\Capa_Modelo_Anticipo.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipos.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\Nominas2_5\Anticipos\Capa_Modelo_Anticipo\obj\Debug\Capa_Modelo_Anticipo.pdb

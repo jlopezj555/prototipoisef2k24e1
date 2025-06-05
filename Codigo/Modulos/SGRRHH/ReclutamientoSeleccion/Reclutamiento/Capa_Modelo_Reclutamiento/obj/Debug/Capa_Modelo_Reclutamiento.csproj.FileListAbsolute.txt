@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\bin\Debug\Capa_Modelo_Reclutamiento.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\ReclutamientoSeleccion\Reclutamiento\Capa_Modelo_Reclutamiento\obj\Debug\Capa_Modelo_Reclutamiento.pdb

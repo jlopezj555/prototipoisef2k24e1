@@ -1,0 +1,12 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\bin\Debug\Capa_Modelo_GD.pdb
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.dll
+C:\INGENIERIA DE SOFTWARE\prototipoisef2k24e1\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Modelo_GD\obj\Debug\Capa_Modelo_GD.pdb
