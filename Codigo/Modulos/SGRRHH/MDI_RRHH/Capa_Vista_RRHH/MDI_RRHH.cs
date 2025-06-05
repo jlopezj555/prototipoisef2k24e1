@@ -575,5 +575,15 @@ namespace Capa_Vista_RRHH
             CentrarFormulario(GD);
             GD.Show();
         }
+
+        private void inicioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nóminaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
