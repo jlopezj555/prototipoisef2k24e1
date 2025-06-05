@@ -14,6 +14,7 @@ using Capa_Vista_Anticipos;
 using Capa_Vista_Liquidaciones;
 using Capa_Vista_PercepcionesDeducciones;
 using Capa_Vista_Carrera;
+using Capa_Vista_Seguridad;
 using Capa_Vista_Capacitacion;
 using Capa_Vista_Reclutamiento;
 using Capa_Vista_Evaluacion;
@@ -444,7 +445,7 @@ namespace Capa_Vista_RRHH
             //frm_registrodisciplinario GD = new frm_registrodisciplinario();
             //GD.Show();
 
-            frm_registrodisciplinario GD = new frm_registrodisciplinario();
+            frm_mostrar_bitacora GD = new frm_mostrar_bitacora(idUsuario);
             GD.MdiParent = this;
             CentrarFormulario(GD);
             GD.Show();
