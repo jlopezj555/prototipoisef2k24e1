@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\CapacitacionYDesarrollo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FB0EE-EEB2-4166-9D5D-0469A39E1F55}|Capa_Vista_Capacitacion\\Capa_Vista_Capacitacion.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\capacitacionydesarrollo\\capa_vista_capacitacion\\mantenimiento_capacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FB0EE-EEB2-4166-9D5D-0469A39E1F55}|Capa_Vista_Capacitacion\\Capa_Vista_Capacitacion.csproj|solutionrelative:capa_vista_capacitacion\\mantenimiento_capacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FB0EE-EEB2-4166-9D5D-0469A39E1F55}|Capa_Vista_Capacitacion\\Capa_Vista_Capacitacion.csproj|c:\\ingenieria de software\\prototipoisef2k24e1\\codigo\\modulos\\sgrrhh\\capacitacionydesarrollo\\capa_vista_capacitacion\\mantenimiento_capacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B43FB0EE-EEB2-4166-9D5D-0469A39E1F55}|Capa_Vista_Capacitacion\\Capa_Vista_Capacitacion.csproj|solutionrelative:capa_vista_capacitacion\\mantenimiento_capacitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mantenimiento_capacitaciones.cs",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\CapacitacionYDesarrollo\\Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\CapacitacionYDesarrollo\\Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "RelativeToolTip": "Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:08:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mantenimiento_capacitaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\CapacitacionYDesarrollo\\Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs",
+              "ToolTip": "C:\\INGENIERIA DE SOFTWARE\\prototipoisef2k24e1\\Codigo\\Modulos\\SGRRHH\\CapacitacionYDesarrollo\\Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_Capacitacion\\mantenimiento_capacitaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:08:43.92Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
