@@ -1,0 +1,38 @@
+Clonar un repositorio y crear el acceso remoto:
+    1- cd [carpeta contendedora]
+    2- git clone [url del repositorio]
+    3- cd [nombre del repositorio]
+    4- git remote add [nombre del remoto] [url del repositorio]
+    5- git pull [nombre del remoto] [rama]
+    6- git push origin [rama]
+
+Entrar y actualizar una rama en especifico
+    1- cd [carpeta contendedora]
+    2- cd [nombre del repositorio]
+    3- git checkout [rama]
+    4- git pull [nombre del remoto] [rama] // Notar que aquí el remoto puede ser origin
+    5- git push [nombre del remoto] [rama]
+
+Crear un pull request = enviar una actualización a repositorio original
+    1- cd [carpeta contendedora]
+    2- cd [nombre del repositorio]
+    3- git add .
+    4- git commit -m "[nombre del commit]"
+    5- git push origin [rama]
+    6- realizar pull request en GitHub
+        6.1- [Repositorio original] [rama] <- [Repositorio secundario] [rama]
+        6.2- Crear pull request
+
+
+
+
+
+
+1. Introduccion a git y explicación de como funciona (Imagen)
+2. Creación de repositorio y del git-ignore; descarga e instalación de git bash (explicación de donde se descarga *solo decir que en la descripción del video esta el link de descarga); explicar como funciona las ramas (hay una main, que desde la rama main se crean todas la ramas que existen y por existir)
+3. Explicar como se puede ser colaborador en un repositorio ya sea interno o externo
+4. Explicación de los comando que se pueden utilizar en git-bash 
+5. Hacer una prueba con todos los comandos y explicación paso a paso de como realizar un pull desde la clonación del repositorio hasta aceptar un pull desde la cuenta principal 
+6. Explicar sobre lo que es SSH
+
+
